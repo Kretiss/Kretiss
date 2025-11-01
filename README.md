@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Kretiss
 - 👀 I’m interested in ReactJS, SpringBoot, gRPC and GraphQL
+<!---
 - 📫 How to reach me: via Discord -> Xoly#9839
-
+--->
+  
 <!---
 - 💞️ I’m looking to collaborate on ReactJS repo
 --->
