@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kretiss
-- 👀 I’m interested in ReactJS, NodeJS, NextJS, Apollo and PHP
-- 🌱 I’m currently learning ReactJS and PHP
+- 👀 I’m interested in ReactJS, SpringBoot, gRPC and GraphQL
 - 📫 How to reach me: via Discord -> Xoly#9839
 
 <!---
